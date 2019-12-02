@@ -1,4 +1,4 @@
-baseurl = "https://chanywn.github.io"
+baseurl = "https://chanywn.github.io/"
 languageCode = "zh-CH"
 title = "Happy study"
 theme = "hugo-lithium-theme"
