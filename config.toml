@@ -7,18 +7,15 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
+    posts = "/:year/:month/:day/:title/"
     page = "/:title/"
 
 [[menu.main]]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = ""
-[[menu.main]]
-    name = "Twitter"
-    url = ""
+    name = "问答库"
+    url = "https://bugsdb.com/_zh"
 
 [params]
     mainSections = ["posts"]
